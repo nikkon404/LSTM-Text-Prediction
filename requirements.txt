@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+tensorflow-metal
+pandas 
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+nltk
